@@ -1,0 +1,7 @@
+#Sun Feb 03 09:21:59 IST 2019
+base.0=/Users/harshasanthosh/Documents/ballbounz_reloaded/BallBounzReloadedVersion/android/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/harshasanthosh/Documents/ballbounz_reloaded/BallBounzReloadedVersion/android/build/intermediates/transforms/dexMerger/release/0

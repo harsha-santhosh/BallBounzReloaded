@@ -1,0 +1,589 @@
+
+cricpack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 1, 607
+  size: 1080, 1440
+  orig: 1080, 1440
+  offset: 0, 0
+  index: -1
+UIBackground
+  rotate: false
+  xy: 1, 25
+  size: 401, 580
+  orig: 401, 580
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 404, 93
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+mylogo3
+  rotate: false
+  xy: 404, 6
+  size: 250, 85
+  orig: 250, 85
+  offset: 0, 0
+  index: -1
+okd
+  rotate: false
+  xy: 656, 27
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+oku
+  rotate: false
+  xy: 722, 27
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+textboxbackground
+  rotate: false
+  xy: 788, 41
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+selectioncursor
+  rotate: false
+  xy: 788, 1
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 820, 9
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+n3
+  rotate: false
+  xy: 918, 139
+  size: 478, 466
+  orig: 478, 466
+  offset: 0, 0
+  index: -1
+message
+  rotate: false
+  xy: 940, 28
+  size: 309, 109
+  orig: 309, 109
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1251, 36
+  size: 200, 101
+  orig: 200, 101
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1398, 1589
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+noplaya
+  rotate: false
+  xy: 1083, 1837
+  size: 300, 210
+  orig: 300, 210
+  offset: 0, 0
+  index: -1
+noplayb
+  rotate: false
+  xy: 1083, 1625
+  size: 300, 210
+  orig: 300, 210
+  offset: 0, 0
+  index: -1
+playlivea
+  rotate: false
+  xy: 1083, 1413
+  size: 300, 210
+  orig: 300, 210
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1083, 613
+  size: 423, 798
+  orig: 423, 798
+  offset: 0, 0
+  index: -1
+n1
+  rotate: false
+  xy: 1398, 145
+  size: 474, 466
+  orig: 474, 466
+  offset: 0, 0
+  index: -1
+newgameb
+  rotate: false
+  xy: 1385, 1435
+  size: 401, 152
+  orig: 401, 152
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1508, 635
+  size: 423, 798
+  orig: 423, 798
+  offset: 0, 0
+  index: -1
+ok11
+  rotate: false
+  xy: 1788, 1437
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+continue1
+  rotate: false
+  xy: 1933, 1335
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+continue2
+  rotate: false
+  xy: 1933, 1233
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+textboxfocusedbackground
+  rotate: false
+  xy: 1874, 583
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+selectmode
+  rotate: false
+  xy: 1453, 49
+  size: 430, 94
+  orig: 430, 94
+  offset: 0, 0
+  index: -1
+
+cricpack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uibackground
+  rotate: false
+  xy: 1, 833
+  size: 800, 1200
+  orig: 800, 1200
+  offset: 0, 0
+  index: -1
+gameback
+  rotate: false
+  xy: 1, 165
+  size: 500, 666
+  orig: 500, 666
+  offset: 0, 0
+  index: -1
+later1
+  rotate: false
+  xy: 803, 1575
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+ok2
+  rotate: false
+  xy: 803, 1575
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+later2
+  rotate: false
+  xy: 803, 1115
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+ok1
+  rotate: false
+  xy: 803, 1115
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+mainmenu1
+  rotate: false
+  xy: 1415, 1575
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+mainmenu2
+  rotate: false
+  xy: 1415, 1115
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+GameTitle
+  rotate: false
+  xy: 803, 953
+  size: 800, 160
+  orig: 800, 160
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 503, 365
+  size: 469, 466
+  orig: 469, 466
+  offset: 0, 0
+  index: -1
+ok3
+  rotate: false
+  xy: 974, 493
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+ok4
+  rotate: false
+  xy: 974, 33
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+Signin
+  rotate: false
+  xy: 503, 173
+  size: 422, 190
+  orig: 422, 190
+  offset: 0, 0
+  index: -1
+gameoverimage
+  rotate: false
+  xy: 1605, 913
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+aboutusa
+  rotate: false
+  xy: 1, 13
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+aboutusb
+  rotate: false
+  xy: 1586, 761
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+backa
+  rotate: false
+  xy: 1586, 609
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+backb
+  rotate: false
+  xy: 1586, 457
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+exita
+  rotate: false
+  xy: 1586, 305
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+exitb
+  rotate: false
+  xy: 1586, 153
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+feedbacka
+  rotate: false
+  xy: 1586, 1
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+feedbackb
+  rotate: false
+  xy: 503, 21
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+
+cricpack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+replay
+  rotate: false
+  xy: 1, 1552
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+runaway1
+  rotate: false
+  xy: 1, 1092
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+runaway2
+  rotate: false
+  xy: 613, 1552
+  size: 610, 458
+  orig: 610, 458
+  offset: 0, 0
+  index: -1
+highscorea
+  rotate: false
+  xy: 1, 940
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+highscoreb
+  rotate: false
+  xy: 613, 1400
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+instructiona
+  rotate: false
+  xy: 1225, 1860
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+instructionb
+  rotate: false
+  xy: 1, 788
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+loadgamea
+  rotate: false
+  xy: 613, 1248
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+loadgameb
+  rotate: false
+  xy: 1225, 1708
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+menu1
+  rotate: false
+  xy: 1627, 1860
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+menu2
+  rotate: false
+  xy: 1, 636
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+musicsound1
+  rotate: false
+  xy: 613, 1096
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+musicsound2
+  rotate: false
+  xy: 1225, 1556
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+newgamea
+  rotate: false
+  xy: 1627, 1708
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+nextbuttond
+  rotate: false
+  xy: 1, 484
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+nextbuttonu
+  rotate: false
+  xy: 1627, 1556
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+resumed
+  rotate: false
+  xy: 1, 213
+  size: 281, 269
+  orig: 281, 269
+  offset: 0, 0
+  index: -1
+playliveb
+  rotate: false
+  xy: 1, 1
+  size: 300, 210
+  orig: 300, 210
+  offset: 0, 0
+  index: -1
+resumeu
+  rotate: false
+  xy: 403, 821
+  size: 281, 269
+  orig: 281, 269
+  offset: 0, 0
+  index: -1
+keep_straight
+  rotate: false
+  xy: 686, 894
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+tilt_left
+  rotate: false
+  xy: 403, 619
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+achievements
+  rotate: false
+  xy: 1015, 1325
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+settinga
+  rotate: false
+  xy: 1242, 1404
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+settingb
+  rotate: false
+  xy: 1644, 1404
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+starta
+  rotate: false
+  xy: 1242, 1252
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+startb
+  rotate: false
+  xy: 1644, 1252
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+statsa
+  rotate: false
+  xy: 403, 467
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+statsb
+  rotate: false
+  xy: 284, 315
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+swtcha
+  rotate: false
+  xy: 303, 163
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+swtchb
+  rotate: false
+  xy: 303, 11
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+tilt_right
+  rotate: false
+  xy: 705, 692
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+ok12
+  rotate: false
+  xy: 1015, 1173
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+videoa
+  rotate: false
+  xy: 1217, 1100
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+videob
+  rotate: false
+  xy: 1619, 1100
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+out
+  rotate: false
+  xy: 805, 545
+  size: 295, 145
+  orig: 295, 145
+  offset: 0, 0
+  index: -1

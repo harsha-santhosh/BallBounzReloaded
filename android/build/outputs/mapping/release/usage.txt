@@ -1,0 +1,1610 @@
+android.arch.lifecycle.Lifecycling:
+    33:33:Lifecycling()
+android.arch.lifecycle.ReflectiveGenericLifecycleObserver:
+    private static final int CALL_TYPE_NO_ARG
+    private static final int CALL_TYPE_PROVIDER
+    private static final int CALL_TYPE_PROVIDER_WITH_EVENT
+android.arch.lifecycle.ReportFragment:
+    private static final java.lang.String REPORT_FRAGMENT_TAG
+    47:47:static android.arch.lifecycle.ReportFragment get(android.app.Activity)
+    128:129:void setProcessListener(android.arch.lifecycle.ReportFragment$ActivityInitializationListener)
+android.support.graphics.drawable.AndroidResources:
+    static final int STYLEABLE_VECTOR_DRAWABLE_ALPHA
+    static final int STYLEABLE_VECTOR_DRAWABLE_AUTO_MIRRORED
+    static final int STYLEABLE_VECTOR_DRAWABLE_HEIGHT
+    static final int STYLEABLE_VECTOR_DRAWABLE_NAME
+    static final int STYLEABLE_VECTOR_DRAWABLE_TINT
+    static final int STYLEABLE_VECTOR_DRAWABLE_TINT_MODE
+    static final int STYLEABLE_VECTOR_DRAWABLE_VIEWPORT_HEIGHT
+    static final int STYLEABLE_VECTOR_DRAWABLE_VIEWPORT_WIDTH
+    static final int STYLEABLE_VECTOR_DRAWABLE_WIDTH
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_NAME
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_PIVOT_X
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_PIVOT_Y
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_ROTATION
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_SCALE_X
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_SCALE_Y
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_TRANSLATE_X
+    static final int STYLEABLE_VECTOR_DRAWABLE_GROUP_TRANSLATE_Y
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_FILL_ALPHA
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_FILL_COLOR
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_NAME
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_PATH_DATA
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_STROKE_ALPHA
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_STROKE_COLOR
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_STROKE_LINE_CAP
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_STROKE_LINE_JOIN
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_STROKE_MITER_LIMIT
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_STROKE_WIDTH
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_TRIM_PATH_END
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_TRIM_PATH_OFFSET
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_TRIM_PATH_START
+    static final int STYLEABLE_VECTOR_DRAWABLE_PATH_TRIM_PATH_FILLTYPE
+    static final int STYLEABLE_VECTOR_DRAWABLE_CLIP_PATH_NAME
+    static final int STYLEABLE_VECTOR_DRAWABLE_CLIP_PATH_PATH_DATA
+    static final int STYLEABLE_ANIMATED_VECTOR_DRAWABLE_DRAWABLE
+    static final int STYLEABLE_ANIMATED_VECTOR_DRAWABLE_TARGET_ANIMATION
+    static final int STYLEABLE_ANIMATED_VECTOR_DRAWABLE_TARGET_NAME
+    public static final int STYLEABLE_ANIMATOR_INTERPOLATOR
+    public static final int STYLEABLE_ANIMATOR_DURATION
+    public static final int STYLEABLE_ANIMATOR_START_OFFSET
+    public static final int STYLEABLE_ANIMATOR_REPEAT_COUNT
+    public static final int STYLEABLE_ANIMATOR_REPEAT_MODE
+    public static final int STYLEABLE_ANIMATOR_VALUE_FROM
+    public static final int STYLEABLE_ANIMATOR_VALUE_TO
+    public static final int STYLEABLE_ANIMATOR_VALUE_TYPE
+    public static final int STYLEABLE_ANIMATOR_REMOVE_BEFORE_M_RELEASE
+    public static final int STYLEABLE_ANIMATOR_SET_ORDERING
+    public static final int STYLEABLE_PROPERTY_VALUES_HOLDER_VALUE_FROM
+    public static final int STYLEABLE_PROPERTY_VALUES_HOLDER_VALUE_TO
+    public static final int STYLEABLE_PROPERTY_VALUES_HOLDER_VALUE_TYPE
+    public static final int STYLEABLE_PROPERTY_VALUES_HOLDER_PROPERTY_NAME
+    public static final int STYLEABLE_KEYFRAME_VALUE
+    public static final int STYLEABLE_KEYFRAME_INTERPOLATOR
+    public static final int STYLEABLE_KEYFRAME_VALUE_TYPE
+    public static final int STYLEABLE_KEYFRAME_FRACTION
+    public static final int STYLEABLE_PROPERTY_ANIMATOR_PROPERTY_NAME
+    public static final int STYLEABLE_PROPERTY_ANIMATOR_PATH_DATA
+    public static final int STYLEABLE_PROPERTY_ANIMATOR_PROPERTY_X_NAME
+    public static final int STYLEABLE_PROPERTY_ANIMATOR_PROPERTY_Y_NAME
+    public static final int STYLEABLE_PATH_INTERPOLATOR_CONTROL_X_1
+    public static final int STYLEABLE_PATH_INTERPOLATOR_CONTROL_Y_1
+    public static final int STYLEABLE_PATH_INTERPOLATOR_CONTROL_X_2
+    public static final int STYLEABLE_PATH_INTERPOLATOR_CONTROL_Y_2
+    public static final int STYLEABLE_PATH_INTERPOLATOR_PATH_DATA
+    public static final int FAST_OUT_LINEAR_IN
+    public static final int FAST_OUT_SLOW_IN
+    public static final int LINEAR_OUT_SLOW_IN
+    19:19:AndroidResources()
+android.support.graphics.drawable.AnimatedVectorDrawableCompat:
+    private static final java.lang.String LOGTAG
+    private static final java.lang.String ANIMATED_VECTOR
+    private static final java.lang.String TARGET
+    private static final boolean DBG_ANIMATION_VECTOR_DRAWABLE
+android.support.graphics.drawable.AnimatorInflaterCompat:
+    private static final java.lang.String TAG
+    private static final int TOGETHER
+    private static final int MAX_NUM_POINTS
+    private static final int VALUE_TYPE_FLOAT
+    private static final int VALUE_TYPE_INT
+    private static final int VALUE_TYPE_PATH
+    private static final int VALUE_TYPE_COLOR
+    private static final int VALUE_TYPE_UNDEFINED
+    private static final boolean DBG_ANIMATOR_INFLATER
+    673:684:private static void dumpKeyframes(java.lang.Object[],java.lang.String)
+android.support.graphics.drawable.AnimatorInflaterCompat$PathDataEvaluator:
+    176:178:AnimatorInflaterCompat$PathDataEvaluator(android.support.v4.graphics.PathParser$PathDataNode[])
+android.support.graphics.drawable.PathInterpolatorCompat:
+    private static final float PRECISION
+android.support.graphics.drawable.VectorDrawableCompat:
+    static final java.lang.String LOGTAG
+    private static final java.lang.String SHAPE_CLIP_PATH
+    private static final java.lang.String SHAPE_GROUP
+    private static final java.lang.String SHAPE_PATH
+    private static final java.lang.String SHAPE_VECTOR
+    private static final int LINECAP_BUTT
+    private static final int LINECAP_ROUND
+    private static final int LINECAP_SQUARE
+    private static final int LINEJOIN_MITER
+    private static final int LINEJOIN_ROUND
+    private static final int LINEJOIN_BEVEL
+    private static final int MAX_CACHED_BITMAP_SIZE
+    private static final boolean DBG_VECTOR_DRAWABLE
+    796:813:private void printGroupTree(android.support.graphics.drawable.VectorDrawableCompat$VGroup,int)
+android.support.graphics.drawable.VectorDrawableCompat$VFullPath:
+    1712:1712:public boolean canApplyTheme()
+    1786:1795:public void applyTheme(android.content.res.Resources$Theme)
+android.support.graphics.drawable.VectorDrawableCompat$VPath:
+    1525:1532:public void printVPath(int)
+    1535:1543:public java.lang.String nodesToString(android.support.v4.graphics.PathParser$PathDataNode[])
+    1564:1564:public boolean canApplyTheme()
+    1568:1568:public void applyTheme(android.content.res.Resources$Theme)
+android.support.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState:
+    int[] mCachedThemeAttrs
+android.support.multidex.MultiDex:
+    static final java.lang.String TAG
+    private static final java.lang.String OLD_SECONDARY_FOLDER_NAME
+    private static final java.lang.String CODE_CACHE_NAME
+    private static final java.lang.String CODE_CACHE_SECONDARY_FOLDER_NAME
+    private static final int MAX_SUPPORTED_SDK_VERSION
+    private static final int MIN_SDK_VERSION
+    private static final int VM_WITH_MULTIDEX_VERSION_MAJOR
+    private static final int VM_WITH_MULTIDEX_VERSION_MINOR
+    private static final java.lang.String NO_KEY_PREFIX
+android.support.multidex.MultiDex$V14:
+    527:527:private MultiDex$V14()
+android.support.multidex.MultiDex$V19:
+    461:461:private MultiDex$V19()
+android.support.multidex.MultiDex$V4:
+    563:563:private MultiDex$V4()
+android.support.multidex.MultiDexExtractor:
+    private static final java.lang.String TAG
+    private static final java.lang.String DEX_PREFIX
+    private static final java.lang.String DEX_SUFFIX
+    private static final java.lang.String EXTRACTED_NAME_EXT
+    private static final java.lang.String EXTRACTED_SUFFIX
+    private static final int MAX_EXTRACT_ATTEMPTS
+    private static final java.lang.String PREFS_FILE
+    private static final java.lang.String KEY_TIME_STAMP
+    private static final java.lang.String KEY_CRC
+    private static final java.lang.String KEY_DEX_NUMBER
+    private static final java.lang.String KEY_DEX_CRC
+    private static final java.lang.String KEY_DEX_TIME
+    private static final int BUFFER_SIZE
+    private static final long NO_VALUE
+    private static final java.lang.String LOCK_FILENAME
+    44:49:MultiDexExtractor()
+android.support.multidex.ZipUtil:
+    private static final int ENDHDR
+    private static final int ENDSIG
+    private static final int BUFFER_SIZE
+    32:33:ZipUtil()
+android.support.v4.content.AsyncTaskLoader:
+    static final java.lang.String TAG
+    static final boolean DEBUG
+android.support.v4.content.FileProvider:
+    private static final java.lang.String META_DATA_FILE_PROVIDER_PATHS
+    private static final java.lang.String TAG_ROOT_PATH
+    private static final java.lang.String TAG_FILES_PATH
+    private static final java.lang.String TAG_CACHE_PATH
+    private static final java.lang.String TAG_EXTERNAL
+    private static final java.lang.String TAG_EXTERNAL_FILES
+    private static final java.lang.String TAG_EXTERNAL_CACHE
+    private static final java.lang.String ATTR_NAME
+    private static final java.lang.String ATTR_PATH
+android.support.v4.content.LocalBroadcastManager:
+    private static final java.lang.String TAG
+    private static final boolean DEBUG
+    static final int MSG_EXEC_PENDING_BROADCASTS
+android.support.v4.content.ModernAsyncTask:
+    private static final java.lang.String LOG_TAG
+    private static final int CORE_POOL_SIZE
+    private static final int MAXIMUM_POOL_SIZE
+    private static final int KEEP_ALIVE
+    private static final int MESSAGE_POST_RESULT
+    private static final int MESSAGE_POST_PROGRESS
+    123:124:public static void setDefaultExecutor(java.util.concurrent.Executor)
+    192:192:public final android.support.v4.content.ModernAsyncTask$Status getStatus()
+    345:345:public final java.lang.Object get()
+    365:365:public final java.lang.Object get(long,java.util.concurrent.TimeUnit)
+    395:395:public final varargs android.support.v4.content.ModernAsyncTask execute(java.lang.Object[])
+    459:460:public static void execute(java.lang.Runnable)
+    477:481:protected final varargs void publishProgress(java.lang.Object[])
+android.support.v4.content.WakefulBroadcastReceiver:
+    private static final java.lang.String EXTRA_WAKE_LOCK_ID
+android.support.v4.content.pm.ShortcutManagerCompat:
+    static final java.lang.String ACTION_INSTALL_SHORTCUT
+    static final java.lang.String INSTALL_SHORTCUT_PERMISSION
+android.support.v4.content.res.FontResourcesParserCompat:
+    private static final int NORMAL_WEIGHT
+    private static final int ITALIC
+    private static final int DEFAULT_TIMEOUT_MILLIS
+android.support.v4.content.res.ResourcesCompat:
+    private static final java.lang.String TAG
+android.support.v4.content.res.TypedArrayUtils:
+    private static final java.lang.String NAMESPACE
+android.support.v4.graphics.ColorUtils:
+    private static final double XYZ_WHITE_REFERENCE_X
+    private static final double XYZ_WHITE_REFERENCE_Y
+    private static final double XYZ_WHITE_REFERENCE_Z
+    private static final double XYZ_EPSILON
+    private static final double XYZ_KAPPA
+    private static final int MIN_ALPHA_SEARCH_MAX_ITERATIONS
+    private static final int MIN_ALPHA_SEARCH_PRECISION
+android.support.v4.graphics.PaintCompatApi14:
+    private static final java.lang.String TOFU_STRING
+    private static final java.lang.String EM_STRING
+    24:24:PaintCompatApi14()
+android.support.v4.graphics.PathParser:
+    private static final java.lang.String LOGTAG
+android.support.v4.graphics.TypefaceCompat:
+    private static final java.lang.String TAG
+android.support.v4.graphics.TypefaceCompatApi21Impl:
+    private static final java.lang.String TAG
+android.support.v4.graphics.TypefaceCompatApi24Impl:
+    private static final java.lang.String TAG
+    private static final java.lang.String FONT_FAMILY_CLASS
+    private static final java.lang.String ADD_FONT_WEIGHT_STYLE_METHOD
+    private static final java.lang.String CREATE_FROM_FAMILIES_WITH_DEFAULT_METHOD
+android.support.v4.graphics.TypefaceCompatApi26Impl:
+    private static final java.lang.String TAG
+    private static final java.lang.String FONT_FAMILY_CLASS
+    private static final java.lang.String ADD_FONT_FROM_ASSET_MANAGER_METHOD
+    private static final java.lang.String ADD_FONT_FROM_BUFFER_METHOD
+    private static final java.lang.String CREATE_FROM_FAMILIES_WITH_DEFAULT_METHOD
+    private static final java.lang.String FREEZE_METHOD
+    private static final java.lang.String ABORT_CREATION_METHOD
+    private static final int RESOLVE_BY_FONT_TABLE
+android.support.v4.graphics.TypefaceCompatBaseImpl:
+    private static final java.lang.String TAG
+    private static final java.lang.String CACHE_FILE_PREFIX
+android.support.v4.graphics.TypefaceCompatUtil:
+    private static final java.lang.String TAG
+    private static final java.lang.String CACHE_FILE_PREFIX
+android.support.v4.graphics.drawable.DrawableCompat$DrawableCompatApi17Impl:
+    private static final java.lang.String TAG
+android.support.v4.graphics.drawable.DrawableWrapperApi21:
+    private static final java.lang.String TAG
+    130:138:public boolean isProjected()
+android.support.v4.graphics.drawable.IconCompat:
+    private static final float ADAPTIVE_ICON_INSET_FACTOR
+    private static final float DEFAULT_VIEW_PORT_SCALE
+    private static final float ICON_DIAMETER_FACTOR
+    private static final float BLUR_FACTOR
+    private static final float KEY_SHADOW_OFFSET_FACTOR
+    private static final int KEY_SHADOW_ALPHA
+    private static final int AMBIENT_SHADOW_ALPHA
+    private static final int TYPE_BITMAP
+    private static final int TYPE_RESOURCE
+    private static final int TYPE_DATA
+    private static final int TYPE_URI
+    private static final int TYPE_ADAPTIVE_BITMAP
+android.support.v4.graphics.drawable.RoundedBitmapDrawable:
+    private static final int DEFAULT_PAINT_FLAGS
+android.support.v4.graphics.drawable.RoundedBitmapDrawableFactory:
+    private static final java.lang.String TAG
+android.support.v4.internal.package-info
+android.support.v4.media.AudioAttributesCompat:
+    private static final java.lang.String TAG
+    private static final int USAGE_VIRTUAL_SOURCE
+    private static final int SUPPRESSIBLE_NOTIFICATION
+    private static final int SUPPRESSIBLE_CALL
+    private static final int FLAG_SECURE
+    private static final int FLAG_SCO
+    private static final int FLAG_BEACON
+    private static final int FLAG_HW_HOTWORD
+    private static final int FLAG_BYPASS_INTERRUPTION_POLICY
+    private static final int FLAG_BYPASS_MUTE
+    private static final int FLAG_LOW_LATENCY
+    private static final int FLAG_DEEP_BUFFER
+    private static final int FLAG_ALL
+    private static final int FLAG_ALL_PUBLIC
+android.support.v4.media.AudioAttributesCompat$AudioManagerHidden
+android.support.v4.media.AudioAttributesCompatApi21:
+    private static final java.lang.String TAG
+    28:52:AudioAttributesCompatApi21()
+android.support.v4.media.MediaBrowserCompat:
+    static final java.lang.String TAG
+android.support.v4.media.MediaBrowserCompat$MediaBrowserImplBase:
+    static final int CONNECT_STATE_DISCONNECTING
+    static final int CONNECT_STATE_DISCONNECTED
+    static final int CONNECT_STATE_CONNECTING
+    static final int CONNECT_STATE_CONNECTED
+    static final int CONNECT_STATE_SUSPENDED
+android.support.v4.media.MediaBrowserCompatApi21:
+    static final java.lang.String NULL_MEDIA_ITEM_ID
+    29:141:MediaBrowserCompatApi21()
+android.support.v4.media.MediaBrowserCompatApi21$MediaItem:
+    141:141:MediaBrowserCompatApi21$MediaItem()
+android.support.v4.media.MediaBrowserCompatApi23:
+    25:40:MediaBrowserCompatApi23()
+android.support.v4.media.MediaBrowserCompatApi24:
+    27:49:MediaBrowserCompatApi24()
+android.support.v4.media.MediaBrowserProtocol
+android.support.v4.media.MediaBrowserServiceCompat:
+    static final java.lang.String TAG
+    private static final float EPSILON
+    static final int RESULT_FLAG_OPTION_NOT_HANDLED
+    static final int RESULT_FLAG_ON_LOAD_ITEM_NOT_IMPLEMENTED
+    static final int RESULT_FLAG_ON_SEARCH_NOT_IMPLEMENTED
+    static final int RESULT_ERROR
+    static final int RESULT_OK
+    static final int RESULT_PROGRESS_UPDATE
+android.support.v4.media.MediaBrowserServiceCompat$ResultFlags
+android.support.v4.media.MediaBrowserServiceCompatApi21:
+    33:109:MediaBrowserServiceCompatApi21()
+android.support.v4.media.MediaBrowserServiceCompatApi23:
+    26:36:MediaBrowserServiceCompatApi23()
+android.support.v4.media.MediaBrowserServiceCompatApi24:
+    private static final java.lang.String TAG
+    32:95:MediaBrowserServiceCompatApi24()
+android.support.v4.media.MediaDescriptionCompatApi21:
+    26:64:MediaDescriptionCompatApi21()
+android.support.v4.media.MediaDescriptionCompatApi21$Builder:
+    64:64:MediaDescriptionCompatApi21$Builder()
+android.support.v4.media.MediaDescriptionCompatApi23:
+    23:28:MediaDescriptionCompatApi23()
+android.support.v4.media.MediaDescriptionCompatApi23$Builder:
+    28:28:MediaDescriptionCompatApi23$Builder()
+android.support.v4.media.MediaMetadataCompat:
+    private static final java.lang.String TAG
+    static final int METADATA_TYPE_LONG
+    static final int METADATA_TYPE_TEXT
+    static final int METADATA_TYPE_BITMAP
+    static final int METADATA_TYPE_RATING
+android.support.v4.media.MediaMetadataCompatApi21:
+    28:57:MediaMetadataCompatApi21()
+    30:30:public static java.util.Set keySet(java.lang.Object)
+    34:34:public static android.graphics.Bitmap getBitmap(java.lang.Object,java.lang.String)
+    38:38:public static long getLong(java.lang.Object,java.lang.String)
+    42:42:public static java.lang.Object getRating(java.lang.Object,java.lang.String)
+    46:46:public static java.lang.CharSequence getText(java.lang.Object,java.lang.String)
+android.support.v4.media.ParceledListSliceAdapterApi21
+android.support.v4.media.RatingCompat:
+    private static final java.lang.String TAG
+    private static final float RATING_NOT_RATED
+android.support.v4.media.RatingCompatKitkat:
+    23:23:RatingCompatKitkat()
+android.support.v4.media.VolumeProviderCompatApi21:
+    23:43:VolumeProviderCompatApi21()
+android.support.v4.media.session.IMediaControllerCallback$Stub:
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_onEvent
+    static final int TRANSACTION_onSessionDestroyed
+    static final int TRANSACTION_onPlaybackStateChanged
+    static final int TRANSACTION_onMetadataChanged
+    static final int TRANSACTION_onQueueChanged
+    static final int TRANSACTION_onQueueTitleChanged
+    static final int TRANSACTION_onExtrasChanged
+    static final int TRANSACTION_onVolumeInfoChanged
+    static final int TRANSACTION_onRepeatModeChanged
+    static final int TRANSACTION_onShuffleModeChangedDeprecated
+    static final int TRANSACTION_onCaptioningEnabledChanged
+    static final int TRANSACTION_onShuffleModeChanged
+android.support.v4.media.session.IMediaControllerCallback$Stub$Proxy:
+    192:192:public java.lang.String getInterfaceDescriptor()
+android.support.v4.media.session.IMediaSession$Stub:
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_sendCommand
+    static final int TRANSACTION_sendMediaButton
+    static final int TRANSACTION_registerCallbackListener
+    static final int TRANSACTION_unregisterCallbackListener
+    static final int TRANSACTION_isTransportControlEnabled
+    static final int TRANSACTION_getPackageName
+    static final int TRANSACTION_getTag
+    static final int TRANSACTION_getLaunchPendingIntent
+    static final int TRANSACTION_getFlags
+    static final int TRANSACTION_getVolumeAttributes
+    static final int TRANSACTION_adjustVolume
+    static final int TRANSACTION_setVolumeTo
+    static final int TRANSACTION_getMetadata
+    static final int TRANSACTION_getPlaybackState
+    static final int TRANSACTION_getQueue
+    static final int TRANSACTION_getQueueTitle
+    static final int TRANSACTION_getExtras
+    static final int TRANSACTION_getRatingType
+    static final int TRANSACTION_isCaptioningEnabled
+    static final int TRANSACTION_getRepeatMode
+    static final int TRANSACTION_isShuffleModeEnabledDeprecated
+    static final int TRANSACTION_getShuffleMode
+    static final int TRANSACTION_addQueueItem
+    static final int TRANSACTION_addQueueItemAt
+    static final int TRANSACTION_removeQueueItem
+    static final int TRANSACTION_removeQueueItemAt
+    static final int TRANSACTION_prepare
+    static final int TRANSACTION_prepareFromMediaId
+    static final int TRANSACTION_prepareFromSearch
+    static final int TRANSACTION_prepareFromUri
+    static final int TRANSACTION_play
+    static final int TRANSACTION_playFromMediaId
+    static final int TRANSACTION_playFromSearch
+    static final int TRANSACTION_playFromUri
+    static final int TRANSACTION_skipToQueueItem
+    static final int TRANSACTION_pause
+    static final int TRANSACTION_stop
+    static final int TRANSACTION_next
+    static final int TRANSACTION_previous
+    static final int TRANSACTION_fastForward
+    static final int TRANSACTION_rewind
+    static final int TRANSACTION_seekTo
+    static final int TRANSACTION_rate
+    static final int TRANSACTION_rateWithExtras
+    static final int TRANSACTION_setCaptioningEnabled
+    static final int TRANSACTION_setRepeatMode
+    static final int TRANSACTION_setShuffleModeEnabledDeprecated
+    static final int TRANSACTION_setShuffleMode
+    static final int TRANSACTION_sendCustomAction
+android.support.v4.media.session.IMediaSession$Stub$Proxy:
+    631:631:public java.lang.String getInterfaceDescriptor()
+android.support.v4.media.session.MediaButtonReceiver:
+    private static final java.lang.String TAG
+android.support.v4.media.session.MediaControllerCompat:
+    static final java.lang.String TAG
+    static final java.lang.String COMMAND_GET_EXTRA_BINDER
+    static final java.lang.String COMMAND_ADD_QUEUE_ITEM
+    static final java.lang.String COMMAND_ADD_QUEUE_ITEM_AT
+    static final java.lang.String COMMAND_REMOVE_QUEUE_ITEM
+    static final java.lang.String COMMAND_REMOVE_QUEUE_ITEM_AT
+    static final java.lang.String COMMAND_ARGUMENT_MEDIA_DESCRIPTION
+    static final java.lang.String COMMAND_ARGUMENT_INDEX
+android.support.v4.media.session.MediaControllerCompat$Callback$MessageHandler:
+    private static final int MSG_EVENT
+    private static final int MSG_UPDATE_PLAYBACK_STATE
+    private static final int MSG_UPDATE_METADATA
+    private static final int MSG_UPDATE_VOLUME
+    private static final int MSG_UPDATE_QUEUE
+    private static final int MSG_UPDATE_QUEUE_TITLE
+    private static final int MSG_UPDATE_EXTRAS
+    private static final int MSG_DESTROYED
+    private static final int MSG_UPDATE_REPEAT_MODE
+    private static final int MSG_UPDATE_SHUFFLE_MODE_DEPRECATED
+    private static final int MSG_UPDATE_CAPTIONING_ENABLED
+    private static final int MSG_UPDATE_SHUFFLE_MODE
+android.support.v4.media.session.MediaControllerCompatApi21:
+    39:273:MediaControllerCompatApi21()
+android.support.v4.media.session.MediaControllerCompatApi21$PlaybackInfo:
+    private static final int FLAG_SCO
+    private static final int STREAM_BLUETOOTH_SCO
+    private static final int STREAM_SYSTEM_ENFORCED
+android.support.v4.media.session.MediaControllerCompatApi23:
+    25:27:MediaControllerCompatApi23()
+android.support.v4.media.session.MediaControllerCompatApi24:
+    25:27:MediaControllerCompatApi24()
+android.support.v4.media.session.MediaSessionCompat:
+    static final java.lang.String TAG
+    static final java.lang.String ACTION_PLAY_FROM_URI
+    static final java.lang.String ACTION_PREPARE
+    static final java.lang.String ACTION_PREPARE_FROM_MEDIA_ID
+    static final java.lang.String ACTION_PREPARE_FROM_SEARCH
+    static final java.lang.String ACTION_PREPARE_FROM_URI
+    static final java.lang.String ACTION_SET_CAPTIONING_ENABLED
+    static final java.lang.String ACTION_SET_REPEAT_MODE
+    static final java.lang.String ACTION_SET_SHUFFLE_MODE_ENABLED
+    static final java.lang.String ACTION_SET_SHUFFLE_MODE
+    static final java.lang.String ACTION_SET_RATING
+    static final java.lang.String ACTION_ARGUMENT_MEDIA_ID
+    static final java.lang.String ACTION_ARGUMENT_QUERY
+    static final java.lang.String ACTION_ARGUMENT_URI
+    static final java.lang.String ACTION_ARGUMENT_RATING
+    static final java.lang.String ACTION_ARGUMENT_EXTRAS
+    static final java.lang.String ACTION_ARGUMENT_CAPTIONING_ENABLED
+    static final java.lang.String ACTION_ARGUMENT_REPEAT_MODE
+    static final java.lang.String ACTION_ARGUMENT_SHUFFLE_MODE_ENABLED
+    static final java.lang.String ACTION_ARGUMENT_SHUFFLE_MODE
+    static final java.lang.String EXTRA_BINDER
+    private static final int MAX_BITMAP_SIZE_IN_DP
+android.support.v4.media.session.MediaSessionCompat$Callback$CallbackHandler:
+    private static final int MSG_MEDIA_PLAY_PAUSE_KEY_DOUBLE_TAP_TIMEOUT
+android.support.v4.media.session.MediaSessionCompat$Callback$StubApi21:
+    1360:1361:public void onSetRating(java.lang.Object,android.os.Bundle)
+android.support.v4.media.session.MediaSessionCompat$MediaSessionImplBase:
+    static final int RCC_PLAYSTATE_NONE
+android.support.v4.media.session.MediaSessionCompat$MediaSessionImplBase$MessageHandler:
+    private static final int MSG_COMMAND
+    private static final int MSG_ADJUST_VOLUME
+    private static final int MSG_PREPARE
+    private static final int MSG_PREPARE_MEDIA_ID
+    private static final int MSG_PREPARE_SEARCH
+    private static final int MSG_PREPARE_URI
+    private static final int MSG_PLAY
+    private static final int MSG_PLAY_MEDIA_ID
+    private static final int MSG_PLAY_SEARCH
+    private static final int MSG_PLAY_URI
+    private static final int MSG_SKIP_TO_ITEM
+    private static final int MSG_PAUSE
+    private static final int MSG_STOP
+    private static final int MSG_NEXT
+    private static final int MSG_PREVIOUS
+    private static final int MSG_FAST_FORWARD
+    private static final int MSG_REWIND
+    private static final int MSG_SEEK_TO
+    private static final int MSG_RATE
+    private static final int MSG_RATE_EXTRA
+    private static final int MSG_CUSTOM_ACTION
+    private static final int MSG_MEDIA_BUTTON
+    private static final int MSG_SET_VOLUME
+    private static final int MSG_SET_REPEAT_MODE
+    private static final int MSG_SET_SHUFFLE_MODE_ENABLED
+    private static final int MSG_ADD_QUEUE_ITEM
+    private static final int MSG_ADD_QUEUE_ITEM_AT
+    private static final int MSG_REMOVE_QUEUE_ITEM
+    private static final int MSG_REMOVE_QUEUE_ITEM_AT
+    private static final int MSG_SET_CAPTIONING_ENABLED
+    private static final int MSG_SET_SHUFFLE_MODE
+    private static final int KEYCODE_MEDIA_PAUSE
+    private static final int KEYCODE_MEDIA_PLAY
+    2863:2864:public void post(int,java.lang.Object)
+    2867:2868:public void post(int)
+android.support.v4.media.session.MediaSessionCompatApi21:
+    static final java.lang.String TAG
+    41:258:MediaSessionCompatApi21()
+android.support.v4.media.session.MediaSessionCompatApi21$Callback:
+    public abstract void onSetRating(java.lang.Object,android.os.Bundle)
+android.support.v4.media.session.MediaSessionCompatApi21$QueueItem:
+    258:258:MediaSessionCompatApi21$QueueItem()
+android.support.v4.media.session.MediaSessionCompatApi22:
+    22:22:MediaSessionCompatApi22()
+android.support.v4.media.session.MediaSessionCompatApi23:
+    24:34:MediaSessionCompatApi23()
+android.support.v4.media.session.MediaSessionCompatApi24:
+    private static final java.lang.String TAG
+    29:54:MediaSessionCompatApi24()
+android.support.v4.media.session.PlaybackStateCompat:
+    private static final int KEYCODE_MEDIA_PAUSE
+    private static final int KEYCODE_MEDIA_PLAY
+android.support.v4.media.session.PlaybackStateCompatApi21:
+    26:79:PlaybackStateCompatApi21()
+android.support.v4.media.session.PlaybackStateCompatApi21$CustomAction:
+    79:79:PlaybackStateCompatApi21$CustomAction()
+android.support.v4.media.session.PlaybackStateCompatApi22:
+    26:26:PlaybackStateCompatApi22()
+android.support.v4.os.EnvironmentCompat:
+    private static final java.lang.String TAG
+android.support.v4.os.IResultReceiver$Stub:
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_send
+android.support.v4.os.IResultReceiver$Stub$Proxy:
+    77:77:public java.lang.String getInterfaceDescriptor()
+android.support.v4.os.LocaleHelper:
+    31:31:LocaleHelper()
+android.support.v4.os.LocaleListHelper:
+    private static final java.lang.String STRING_EN_XA
+    private static final java.lang.String STRING_AR_XB
+    private static final int NUM_PSEUDO_LOCALES
+    209:251:LocaleListHelper(java.util.Locale,android.support.v4.os.LocaleListHelper)
+    260:260:static android.support.v4.os.LocaleListHelper getEmptyLocaleList()
+    274:282:static android.support.v4.os.LocaleListHelper forLanguageTags(java.lang.String)
+    305:305:private static boolean isPseudoLocale(java.lang.String)
+    418:418:int getFirstMatchIndex(java.lang.String[])
+    429:429:java.util.Locale getFirstMatchWithEnglishSupported(java.lang.String[])
+    438:438:int getFirstMatchIndexWithEnglishSupported(java.util.Collection)
+    446:446:int getFirstMatchIndexWithEnglishSupported(java.lang.String[])
+    456:472:static boolean isPseudoLocalesOnly(java.lang.String[])
+    503:525:static android.support.v4.os.LocaleListHelper getDefault()
+    534:537:static android.support.v4.os.LocaleListHelper getAdjustedDefault()
+    551:552:static void setDefault(android.support.v4.os.LocaleListHelper)
+    565:583:static void setDefault(android.support.v4.os.LocaleListHelper,int)
+android.support.v4.print.PrintHelper$ColorMode
+android.support.v4.print.PrintHelper$Orientation
+android.support.v4.print.PrintHelper$PrintHelperApi19:
+    private static final java.lang.String LOG_TAG
+    private static final int MAX_PRINT_SIZE
+android.support.v4.print.PrintHelper$ScaleMode
+android.support.v4.provider.DocumentFile:
+    static final java.lang.String TAG
+android.support.v4.provider.DocumentsContractApi19:
+    private static final java.lang.String TAG
+    private static final int FLAG_VIRTUAL_DOCUMENT
+    31:31:DocumentsContractApi19()
+android.support.v4.provider.DocumentsContractApi21:
+    private static final java.lang.String TAG
+    30:30:DocumentsContractApi21()
+android.support.v4.provider.FontsContractCompat:
+    private static final java.lang.String TAG
+    private static final int BACKGROUND_THREAD_KEEP_ALIVE_DURATION_MS
+android.support.v4.provider.FontsContractCompat$FontFamilyResult$FontResultStatus
+android.support.v4.provider.FontsContractCompat$FontRequestCallback$FontRequestFailReason
+android.support.v4.provider.SelfDestructiveThread:
+    private static final int MSG_INVOKE_RUNNABLE
+    private static final int MSG_DESTRUCTION
+android.support.v4.text.BidiFormatter:
+    private static final char LRE
+    private static final char RLE
+    private static final char PDF
+    private static final char LRM
+    private static final char RLM
+    private static final java.lang.String EMPTY_STRING
+    private static final int FLAG_STEREO_RESET
+    private static final int DEFAULT_FLAGS
+    private static final int DIR_LTR
+    private static final int DIR_UNKNOWN
+    private static final int DIR_RTL
+android.support.v4.text.BidiFormatter$DirectionalityEstimator:
+    private static final int DIR_TYPE_CACHE_SIZE
+android.support.v4.text.ICUCompatApi21:
+    private static final java.lang.String TAG
+    27:27:ICUCompatApi21()
+android.support.v4.text.ICUCompatIcs:
+    private static final java.lang.String TAG
+    27:27:ICUCompatIcs()
+android.support.v4.text.TextDirectionHeuristicsCompat:
+    private static final int STATE_TRUE
+    private static final int STATE_FALSE
+    private static final int STATE_UNKNOWN
+android.support.v4.text.TextUtilsCompat:
+    private static final java.lang.String ARAB_SCRIPT_SUBTAG
+    private static final java.lang.String HEBR_SCRIPT_SUBTAG
+android.support.v4.util.ArraySet:
+    private static final boolean DEBUG
+    private static final java.lang.String TAG
+    private static final int BASE_SIZE
+    private static final int CACHE_SIZE
+android.support.v4.util.ContainerHelpers:
+    19:19:ContainerHelpers()
+android.support.v4.util.PatternsCompat:
+    static final java.lang.String IANA_TOP_LEVEL_DOMAINS
+    private static final java.lang.String UCS_CHAR
+    private static final java.lang.String LABEL_CHAR
+    private static final java.lang.String TLD_CHAR
+    private static final java.lang.String IRI_LABEL
+    private static final java.lang.String PUNYCODE_TLD
+    private static final java.lang.String TLD
+    private static final java.lang.String HOST_NAME
+    private static final java.lang.String PROTOCOL
+    private static final java.lang.String WORD_BOUNDARY
+    private static final java.lang.String USER_INFO
+    private static final java.lang.String PORT_NUMBER
+    private static final java.lang.String PATH_AND_QUERY
+    private static final java.lang.String STRICT_TLD
+    private static final java.lang.String STRICT_HOST_NAME
+    private static final java.lang.String EMAIL_CHAR
+    private static final java.lang.String EMAIL_ADDRESS_LOCAL_PART
+    private static final java.lang.String EMAIL_ADDRESS_DOMAIN
+android.support.v4.util.SimpleArrayMap:
+    private static final boolean DEBUG
+    private static final java.lang.String TAG
+    private static final boolean CONCURRENT_MODIFICATION_EXCEPTIONS
+    private static final int BASE_SIZE
+    private static final int CACHE_SIZE
+android.support.v4.util.TimeUtils:
+    private static final int SECONDS_PER_MINUTE
+    private static final int SECONDS_PER_HOUR
+    private static final int SECONDS_PER_DAY
+android.support.v4.view.AsyncLayoutInflater:
+    private static final java.lang.String TAG
+android.support.v4.view.GestureDetectorCompat$GestureDetectorCompatImplBase:
+    private static final int SHOW_PRESS
+    private static final int LONG_PRESS
+    private static final int TAP
+android.support.v4.view.LayoutInflaterCompat:
+    private static final java.lang.String TAG
+android.support.v4.view.MenuItemCompat:
+    private static final java.lang.String TAG
+android.support.v4.view.PagerTabStrip:
+    private static final java.lang.String TAG
+    private static final int INDICATOR_HEIGHT
+    private static final int MIN_PADDING_BOTTOM
+    private static final int TAB_PADDING
+    private static final int TAB_SPACING
+    private static final int MIN_TEXT_SPACING
+    private static final int FULL_UNDERLINE_HEIGHT
+    private static final int MIN_STRIP_HEIGHT
+android.support.v4.view.PagerTitleStrip:
+    private static final float SIDE_ALPHA
+    private static final int TEXT_SPACING
+android.support.v4.view.ViewCompat:
+    private static final java.lang.String TAG
+android.support.v4.view.ViewCompat$AccessibilityLiveRegion
+android.support.v4.view.ViewCompat$ImportantForAccessibility
+android.support.v4.view.ViewCompat$LayerType
+android.support.v4.view.ViewCompat$LayoutDirectionMode
+android.support.v4.view.ViewCompat$OverScroll
+android.support.v4.view.ViewCompat$ResolvedLayoutDirectionMode
+android.support.v4.view.ViewConfigurationCompat:
+    private static final java.lang.String TAG
+android.support.v4.view.ViewPager:
+    private static final java.lang.String TAG
+    private static final boolean DEBUG
+    private static final boolean USE_CACHE
+    private static final int DEFAULT_OFFSCREEN_PAGES
+    private static final int MAX_SETTLE_DURATION
+    private static final int MIN_DISTANCE_FOR_FLING
+    private static final int DEFAULT_GUTTER_SIZE
+    private static final int MIN_FLING_VELOCITY
+    private static final int INVALID_POINTER
+    private static final int CLOSE_ENOUGH
+    private static final int DRAW_ORDER_DEFAULT
+    private static final int DRAW_ORDER_FORWARD
+    private static final int DRAW_ORDER_REVERSE
+    931:932:void smoothScrollTo(int,int)
+android.support.v4.view.ViewParentCompat:
+    private static final java.lang.String TAG
+android.support.v4.view.ViewPropertyAnimatorCompat:
+    private static final java.lang.String TAG
+    static final int LISTENER_TAG_ID
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityNodeInfoApi19Impl:
+    private static final java.lang.String ROLE_DESCRIPTION_KEY
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatKitKat:
+    27:28:AccessibilityNodeInfoCompatKitKat()
+android.support.v4.view.accessibility.AccessibilityNodeInfoCompatKitKat$RangeInfo:
+    28:28:AccessibilityNodeInfoCompatKitKat$RangeInfo()
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatJellyBean:
+    31:32:AccessibilityNodeProviderCompatJellyBean()
+android.support.v4.view.accessibility.AccessibilityNodeProviderCompatKitKat:
+    31:32:AccessibilityNodeProviderCompatKitKat()
+android.support.v4.view.accessibility.AccessibilityWindowInfoCompat:
+    private static final int UNDEFINED
+android.support.v4.view.animation.PathInterpolatorApi14:
+    private static final float PRECISION
+android.support.v4.widget.AutoScrollHelper:
+    private static final int HORIZONTAL
+    private static final int VERTICAL
+    private static final int DEFAULT_EDGE_TYPE
+    private static final int DEFAULT_MINIMUM_VELOCITY_DIPS
+    private static final int DEFAULT_MAXIMUM_VELOCITY_DIPS
+    private static final float DEFAULT_MAXIMUM_EDGE
+    private static final float DEFAULT_RELATIVE_EDGE
+    private static final float DEFAULT_RELATIVE_VELOCITY
+    private static final int DEFAULT_RAMP_UP_DURATION
+    private static final int DEFAULT_RAMP_DOWN_DURATION
+android.support.v4.widget.CircleImageView:
+    private static final int KEY_SHADOW_COLOR
+    private static final int FILL_SHADOW_COLOR
+    private static final float X_OFFSET
+    private static final float Y_OFFSET
+    private static final float SHADOW_RADIUS
+    private static final int SHADOW_ELEVATION
+    116:117:public void setBackgroundColorRes(int)
+android.support.v4.widget.CircularProgressDrawable:
+    private static final float CENTER_RADIUS_LARGE
+    private static final float STROKE_WIDTH_LARGE
+    private static final int ARROW_WIDTH_LARGE
+    private static final int ARROW_HEIGHT_LARGE
+    private static final float CENTER_RADIUS
+    private static final float STROKE_WIDTH
+    private static final int ARROW_WIDTH
+    private static final int ARROW_HEIGHT
+    private static final float COLOR_CHANGE_OFFSET
+    private static final float SHRINK_OFFSET
+    private static final int ANIMATION_DURATION
+    private static final float GROUP_FULL_ROTATION
+    private static final float MAX_PROGRESS_ARC
+    private static final float MIN_PROGRESS_ARC
+    private static final float RING_ROTATION
+    423:423:private float getRotation()
+android.support.v4.widget.CompoundButtonCompat$CompoundButtonCompatBaseImpl:
+    private static final java.lang.String TAG
+android.support.v4.widget.ContentLoadingProgressBar:
+    private static final int MIN_SHOW_TIME
+    private static final int MIN_DELAY
+android.support.v4.widget.DrawerLayout:
+    private static final java.lang.String TAG
+    private static final int MIN_DRAWER_MARGIN
+    private static final int DRAWER_ELEVATION
+    private static final int DEFAULT_SCRIM_COLOR
+    private static final int PEEK_DELAY
+    private static final int MIN_FLING_VELOCITY
+    private static final boolean ALLOW_EDGE_LOCK
+    private static final boolean CHILDREN_DISALLOW_INTERCEPT
+    private static final float TOUCH_SLOP_SENSITIVITY
+android.support.v4.widget.DrawerLayout$EdgeGravity
+android.support.v4.widget.DrawerLayout$LayoutParams:
+    private static final int FLAG_IS_OPENED
+    private static final int FLAG_IS_OPENING
+    private static final int FLAG_IS_CLOSING
+android.support.v4.widget.DrawerLayout$LockMode
+android.support.v4.widget.DrawerLayout$State
+android.support.v4.widget.ExploreByTouchHelper:
+    private static final java.lang.String DEFAULT_CLASS_NAME
+android.support.v4.widget.FocusStrategy:
+    35:450:FocusStrategy()
+android.support.v4.widget.NestedScrollView:
+    static final int ANIMATED_SCROLL_GAP
+    static final float MAX_SCROLL_FACTOR
+    private static final java.lang.String TAG
+    private static final int INVALID_POINTER
+android.support.v4.widget.PopupWindowCompat$PopupWindowCompatApi21Impl:
+    private static final java.lang.String TAG
+android.support.v4.widget.SearchViewCompat:
+    44:46:private SearchViewCompat(android.content.Context)
+android.support.v4.widget.SlidingPaneLayout:
+    private static final java.lang.String TAG
+    private static final int DEFAULT_OVERHANG_SIZE
+    private static final int DEFAULT_FADE_COLOR
+    private static final int MIN_FLING_VELOCITY
+android.support.v4.widget.SwipeProgressBar
+android.support.v4.widget.SwipeRefreshLayout:
+    static final int CIRCLE_DIAMETER
+    static final int CIRCLE_DIAMETER_LARGE
+    private static final int MAX_ALPHA
+    private static final int STARTING_PROGRESS_ALPHA
+    private static final float DECELERATE_INTERPOLATION_FACTOR
+    private static final int INVALID_POINTER
+    private static final float DRAG_RATE
+    private static final float MAX_PROGRESS_ANGLE
+    private static final int SCALE_DOWN_DURATION
+    private static final int ALPHA_ANIMATION_DURATION
+    private static final int ANIMATE_TO_TRIGGER_DURATION
+    private static final int ANIMATE_TO_START_DURATION
+    private static final int CIRCLE_BG_LIGHT
+    private static final int DEFAULT_CIRCLE_TARGET
+android.support.v4.widget.TextViewCompat$TextViewCompatBaseImpl:
+    private static final java.lang.String LOG_TAG
+    private static final int LINES
+android.support.v4.widget.ViewDragHelper:
+    private static final java.lang.String TAG
+    private static final int EDGE_SIZE
+    private static final int BASE_SETTLE_DURATION
+    private static final int MAX_SETTLE_DURATION
+android.support.v7.content.res.AppCompatColorStateListInflater:
+    private static final int DEFAULT_COLOR
+    40:40:private AppCompatColorStateListInflater()
+android.support.v7.content.res.AppCompatResources:
+    private static final java.lang.String LOG_TAG
+android.support.v7.content.res.GrowingArrayUtils:
+    72:80:public static long[] append(long[],int,long)
+    87:95:public static boolean[] append(boolean[],int,boolean)
+    110:123:public static java.lang.Object[] insert(java.lang.Object[],int,int,java.lang.Object)
+    130:142:public static int[] insert(int[],int,int,int)
+    149:161:public static long[] insert(long[],int,int,long)
+    168:180:public static boolean[] insert(boolean[],int,int,boolean)
+android.support.v7.graphics.ColorCutQuantizer:
+    private static final java.lang.String LOG_TAG
+    private static final boolean LOG_TIMINGS
+    static final int COMPONENT_RED
+    static final int COMPONENT_GREEN
+    static final int COMPONENT_BLUE
+    private static final int QUANTIZE_WORD_WIDTH
+    private static final int QUANTIZE_WORD_MASK
+android.support.v7.graphics.Palette:
+    static final int DEFAULT_RESIZE_BITMAP_AREA
+    static final int DEFAULT_CALCULATE_NUMBER_COLORS
+    static final float MIN_CONTRAST_TITLE_TEXT
+    static final float MIN_CONTRAST_BODY_TEXT
+    static final java.lang.String LOG_TAG
+    static final boolean LOG_TIMINGS
+    432:434:private static float[] copyHslValues(android.support.v7.graphics.Palette$Swatch)
+android.support.v7.graphics.Palette$1:
+    private static final float BLACK_MAX_LIGHTNESS
+    private static final float WHITE_MIN_LIGHTNESS
+android.support.v7.graphics.Palette$Swatch:
+    460:466:Palette$Swatch(int,int,int,int)
+    469:471:Palette$Swatch(float[],int)
+android.support.v7.graphics.Target:
+    private static final float TARGET_DARK_LUMA
+    private static final float MAX_DARK_LUMA
+    private static final float MIN_LIGHT_LUMA
+    private static final float TARGET_LIGHT_LUMA
+    private static final float MIN_NORMAL_LUMA
+    private static final float TARGET_NORMAL_LUMA
+    private static final float MAX_NORMAL_LUMA
+    private static final float TARGET_MUTED_SATURATION
+    private static final float MAX_MUTED_SATURATION
+    private static final float TARGET_VIBRANT_SATURATION
+    private static final float MIN_VIBRANT_SATURATION
+    private static final float WEIGHT_SATURATION
+    private static final float WEIGHT_LUMA
+    private static final float WEIGHT_POPULATION
+    static final int INDEX_MIN
+    static final int INDEX_TARGET
+    static final int INDEX_MAX
+    static final int INDEX_WEIGHT_SAT
+    static final int INDEX_WEIGHT_LUMA
+    static final int INDEX_WEIGHT_POP
+android.support.v7.media.MediaItemStatus:
+    static final java.lang.String KEY_TIMESTAMP
+    static final java.lang.String KEY_PLAYBACK_STATE
+    static final java.lang.String KEY_CONTENT_POSITION
+    static final java.lang.String KEY_CONTENT_DURATION
+    static final java.lang.String KEY_EXTRAS
+android.support.v7.media.MediaRouteDescriptor:
+    static final java.lang.String KEY_ID
+    static final java.lang.String KEY_GROUP_MEMBER_IDS
+    static final java.lang.String KEY_NAME
+    static final java.lang.String KEY_DESCRIPTION
+    static final java.lang.String KEY_ICON_URI
+    static final java.lang.String KEY_ENABLED
+    static final java.lang.String KEY_CONNECTING
+    static final java.lang.String KEY_CONNECTION_STATE
+    static final java.lang.String KEY_CONTROL_FILTERS
+    static final java.lang.String KEY_PLAYBACK_TYPE
+    static final java.lang.String KEY_PLAYBACK_STREAM
+    static final java.lang.String KEY_DEVICE_TYPE
+    static final java.lang.String KEY_VOLUME
+    static final java.lang.String KEY_VOLUME_MAX
+    static final java.lang.String KEY_VOLUME_HANDLING
+    static final java.lang.String KEY_PRESENTATION_DISPLAY_ID
+    static final java.lang.String KEY_EXTRAS
+    static final java.lang.String KEY_CAN_DISCONNECT
+    static final java.lang.String KEY_SETTINGS_INTENT
+    static final java.lang.String KEY_MIN_CLIENT_VERSION
+    static final java.lang.String KEY_MAX_CLIENT_VERSION
+android.support.v7.media.MediaRouteDiscoveryRequest:
+    private static final java.lang.String KEY_SELECTOR
+    private static final java.lang.String KEY_ACTIVE_SCAN
+android.support.v7.media.MediaRouteProvider:
+    static final int MSG_DELIVER_DESCRIPTOR_CHANGED
+    static final int MSG_DELIVER_DISCOVERY_REQUEST_CHANGED
+android.support.v7.media.MediaRouteProviderDescriptor:
+    private static final java.lang.String KEY_ROUTES
+android.support.v7.media.MediaRouteProviderProtocol:
+    public static final java.lang.String SERVICE_INTERFACE
+    public static final int CLIENT_MSG_REGISTER
+    public static final int CLIENT_MSG_UNREGISTER
+    public static final int CLIENT_MSG_CREATE_ROUTE_CONTROLLER
+    public static final int CLIENT_MSG_RELEASE_ROUTE_CONTROLLER
+    public static final int CLIENT_MSG_SELECT_ROUTE
+    public static final int CLIENT_MSG_UNSELECT_ROUTE
+    public static final int CLIENT_MSG_SET_ROUTE_VOLUME
+    public static final int CLIENT_MSG_UPDATE_ROUTE_VOLUME
+    public static final int CLIENT_MSG_ROUTE_CONTROL_REQUEST
+    public static final int CLIENT_MSG_SET_DISCOVERY_REQUEST
+    public static final java.lang.String CLIENT_DATA_ROUTE_ID
+    public static final java.lang.String CLIENT_DATA_ROUTE_LIBRARY_GROUP
+    public static final java.lang.String CLIENT_DATA_VOLUME
+    public static final java.lang.String CLIENT_DATA_UNSELECT_REASON
+    public static final int SERVICE_MSG_GENERIC_FAILURE
+    public static final int SERVICE_MSG_GENERIC_SUCCESS
+    public static final int SERVICE_MSG_REGISTERED
+    public static final int SERVICE_MSG_CONTROL_REQUEST_SUCCEEDED
+    public static final int SERVICE_MSG_CONTROL_REQUEST_FAILED
+    public static final int SERVICE_MSG_DESCRIPTOR_CHANGED
+    public static final java.lang.String SERVICE_DATA_ERROR
+    public static final int CLIENT_VERSION_1
+    public static final int CLIENT_VERSION_2
+    public static final int CLIENT_VERSION_CURRENT
+    public static final int SERVICE_VERSION_1
+    public static final int SERVICE_VERSION_CURRENT
+    static final int CLIENT_VERSION_START
+    25:25:MediaRouteProviderProtocol()
+android.support.v7.media.MediaRouteProviderService:
+    static final java.lang.String TAG
+    static final int PRIVATE_MSG_CLIENT_DIED
+android.support.v7.media.MediaRouteSelector:
+    static final java.lang.String KEY_CONTROL_CATEGORIES
+android.support.v7.media.MediaRouter:
+    static final java.lang.String TAG
+android.support.v7.media.MediaRouter$CallbackFlags
+android.support.v7.media.MediaRouter$GlobalMediaRouter:
+    2017:2024:public android.content.Context getProviderContext(java.lang.String)
+android.support.v7.media.MediaRouter$GlobalMediaRouter$CallbackHandler:
+    private static final int MSG_TYPE_MASK
+    private static final int MSG_TYPE_ROUTE
+    private static final int MSG_TYPE_PROVIDER
+    public static final int MSG_ROUTE_ADDED
+    public static final int MSG_ROUTE_REMOVED
+    public static final int MSG_ROUTE_CHANGED
+    public static final int MSG_ROUTE_VOLUME_CHANGED
+    public static final int MSG_ROUTE_PRESENTATION_DISPLAY_CHANGED
+    public static final int MSG_ROUTE_SELECTED
+    public static final int MSG_ROUTE_UNSELECTED
+    public static final int MSG_PROVIDER_ADDED
+    public static final int MSG_PROVIDER_REMOVED
+    public static final int MSG_PROVIDER_CHANGED
+android.support.v7.media.MediaRouter$ProviderInfo:
+    private android.content.res.Resources mResources
+    private boolean mResourcesNotAvailable
+    1707:1718:android.content.res.Resources getResources()
+android.support.v7.media.MediaRouter$RouteInfo:
+    static final int CHANGE_GENERAL
+    static final int CHANGE_VOLUME
+    static final int CHANGE_PRESENTATION_DISPLAY
+    static final java.lang.String SYSTEM_MEDIA_ROUTE_PROVIDER_PACKAGE_NAME
+android.support.v7.media.MediaRouter$RouteInfo$ConnectionState
+android.support.v7.media.MediaRouter$RouteInfo$DeviceType
+android.support.v7.media.MediaRouter$RouteInfo$PlaybackType
+android.support.v7.media.MediaRouter$RouteInfo$PlaybackVolume
+android.support.v7.media.MediaRouterApi24:
+    22:23:MediaRouterApi24()
+android.support.v7.media.MediaRouterJellybean:
+    private static final java.lang.String TAG
+    public static final int DEVICE_OUT_BLUETOOTH
+    public static final int ROUTE_TYPE_LIVE_AUDIO
+    public static final int ROUTE_TYPE_LIVE_VIDEO
+    public static final int ROUTE_TYPE_USER
+    public static final int ALL_ROUTE_TYPES
+    32:443:MediaRouterJellybean()
+    66:72:public static java.util.List getCategories(java.lang.Object)
+    124:131:static boolean checkRoutedToBluetooth(android.content.Context)
+android.support.v7.media.MediaRouterJellybeanMr1:
+    private static final java.lang.String TAG
+    32:173:MediaRouterJellybeanMr1()
+android.support.v7.media.MediaRouterJellybeanMr1$ActiveScanWorkaround:
+    private static final int WIFI_DISPLAY_SCAN_INTERVAL
+android.support.v7.media.MediaRouterJellybeanMr2:
+    22:42:MediaRouterJellybeanMr2()
+android.support.v7.media.MediaSessionStatus:
+    static final java.lang.String KEY_TIMESTAMP
+    static final java.lang.String KEY_SESSION_STATE
+    static final java.lang.String KEY_QUEUE_PAUSED
+    static final java.lang.String KEY_EXTRAS
+android.support.v7.media.RegisteredMediaRouteProvider:
+    static final java.lang.String TAG
+android.support.v7.media.RegisteredMediaRouteProviderWatcher:
+    75:86:public void stop()
+android.support.v7.media.RemotePlaybackClient:
+    static final java.lang.String TAG
+android.support.v7.media.RemotePlaybackClient$ActionReceiver:
+    public static final java.lang.String ACTION_ITEM_STATUS_CHANGED
+    public static final java.lang.String ACTION_SESSION_STATUS_CHANGED
+    public static final java.lang.String ACTION_MESSAGE_RECEIVED
+android.support.v7.media.SystemMediaRouteProvider:
+    private static final java.lang.String TAG
+    public static final java.lang.String PACKAGE_NAME
+    public static final java.lang.String DEFAULT_ROUTE_ID
+    108:108:protected java.lang.Object getSystemRoute(android.support.v7.media.MediaRouter$RouteInfo)
+android.support.v7.media.SystemMediaRouteProvider$JellybeanImpl:
+    671:678:protected java.lang.Object getSystemRoute(android.support.v7.media.MediaRouter$RouteInfo)
+android.support.v7.media.SystemMediaRouteProvider$LegacyImpl:
+    static final int PLAYBACK_STREAM
+android.support.v7.media.SystemMediaRouteProvider$LegacyImpl$VolumeChangeReceiver:
+    public static final java.lang.String VOLUME_CHANGED_ACTION
+    public static final java.lang.String EXTRA_VOLUME_STREAM_TYPE
+    public static final java.lang.String EXTRA_VOLUME_STREAM_VALUE
+android.support.v7.view.SupportMenuInflater:
+    static final java.lang.String LOG_TAG
+    private static final java.lang.String XML_MENU
+    private static final java.lang.String XML_GROUP
+    private static final java.lang.String XML_ITEM
+    static final int NO_ID
+android.support.v7.view.SupportMenuInflater$MenuState:
+    private static final int defaultGroupId
+    private static final int defaultItemId
+    private static final int defaultItemCategory
+    private static final int defaultItemOrder
+    private static final int defaultItemCheckable
+    private static final boolean defaultItemChecked
+    private static final boolean defaultItemVisible
+    private static final boolean defaultItemEnabled
+android.support.v7.view.menu.ActionMenuItem:
+    private static final int NO_ICON
+    private static final int CHECKABLE
+    private static final int CHECKED
+    private static final int EXCLUSIVE
+    private static final int HIDDEN
+    private static final int ENABLED
+android.support.v7.view.menu.ActionMenuItemView:
+    private static final java.lang.String TAG
+    private static final int MAX_ICON_SIZE
+android.support.v7.view.menu.CascadingMenuPopup:
+    static final int HORIZ_POSITION_LEFT
+    static final int HORIZ_POSITION_RIGHT
+    static final int SUBMENU_TIMEOUT_MS
+android.support.v7.view.menu.ListMenuItemView:
+    private static final java.lang.String TAG
+android.support.v7.view.menu.ListMenuPresenter:
+    private static final java.lang.String TAG
+    160:160:int getItemIndexOffset()
+android.support.v7.view.menu.MenuBuilder:
+    private static final java.lang.String TAG
+    private static final java.lang.String PRESENTER_KEY
+    private static final java.lang.String ACTION_VIEW_STATES_KEY
+    private static final java.lang.String EXPANDED_ACTION_VIEW_ID
+    private android.util.SparseArray mFrozenViewStates
+android.support.v7.view.menu.MenuDialogHelper:
+    129:130:public void setPresenterCallback(android.support.v7.view.menu.MenuPresenter$Callback)
+android.support.v7.view.menu.MenuHelper
+android.support.v7.view.menu.MenuItemImpl:
+    private static final java.lang.String TAG
+    private static final int SHOW_AS_ACTION_MASK
+    private static final int CHECKABLE
+    private static final int CHECKED
+    private static final int EXCLUSIVE
+    private static final int HIDDEN
+    private static final int ENABLED
+    private static final int IS_ACTION
+    static final int NO_ICON
+    246:246:java.lang.Runnable getCallback()
+android.support.v7.view.menu.MenuItemWrapperICS:
+    static final java.lang.String LOG_TAG
+android.support.v7.view.menu.MenuPopupHelper:
+    private static final int TOUCH_EPICENTER_SIZE_DP
+android.support.v7.widget.AbsActionBarView:
+    private static final int FADE_DURATION
+android.support.v7.widget.ActionBarContextView:
+    private static final java.lang.String TAG
+android.support.v7.widget.ActionBarOverlayLayout:
+    private static final java.lang.String TAG
+android.support.v7.widget.ActionMenuPresenter:
+    private static final java.lang.String TAG
+    145:148:public void setWidthLimit(int,boolean)
+    156:158:public void setItemLimit(int)
+android.support.v7.widget.ActionMenuView:
+    private static final java.lang.String TAG
+    static final int MIN_CELL_SIZE
+    static final int GENERATED_ITEM_PADDING
+android.support.v7.widget.ActionMenuView$LayoutParams:
+    850:852:ActionMenuView$LayoutParams(int,int,boolean)
+android.support.v7.widget.ActivityChooserModel:
+    static final boolean DEBUG
+    static final java.lang.String TAG_HISTORICAL_RECORDS
+    static final java.lang.String TAG_HISTORICAL_RECORD
+    static final java.lang.String ATTRIBUTE_ACTIVITY
+    static final java.lang.String ATTRIBUTE_TIME
+    static final java.lang.String ATTRIBUTE_WEIGHT
+    public static final java.lang.String DEFAULT_HISTORY_FILE_NAME
+    public static final int DEFAULT_HISTORY_MAX_LENGTH
+    private static final int DEFAULT_ACTIVITY_INFLATION
+    private static final float DEFAULT_HISTORICAL_RECORD_WEIGHT
+    private static final java.lang.String HISTORY_FILE_EXTENSION
+    private static final int INVALID_INDEX
+    382:384:public android.content.Intent getIntent()
+    587:596:public void setActivitySorter(android.support.v7.widget.ActivityChooserModel$ActivitySorter)
+    612:622:public void setHistoryMaxSize(int)
+    630:632:public int getHistoryMaxSize()
+android.support.v7.widget.ActivityChooserModel$DefaultSorter:
+    private static final float WEIGHT_DECAY_COEFFICIENT
+android.support.v7.widget.ActivityChooserView:
+    private static final java.lang.String LOG_TAG
+android.support.v7.widget.ActivityChooserView$ActivityChooserViewAdapter:
+    public static final int MAX_ACTIVITY_COUNT_UNLIMITED
+    public static final int MAX_ACTIVITY_COUNT_DEFAULT
+    private static final int ITEM_VIEW_TYPE_ACTIVITY
+    private static final int ITEM_VIEW_TYPE_FOOTER
+    private static final int ITEM_VIEW_TYPE_COUNT
+android.support.v7.widget.AppCompatCompoundButtonHelper$DirectSetButtonDrawableInterface
+android.support.v7.widget.AppCompatDrawableManager:
+    private static final java.lang.String TAG
+    private static final boolean DEBUG
+    private static final java.lang.String SKIP_DRAWABLE_TAG
+    private static final java.lang.String PLATFORM_VD_CLAZZ
+    499:502:private void removeDelegate(java.lang.String,android.support.v7.widget.AppCompatDrawableManager$InflateDelegate)
+android.support.v7.widget.AppCompatImageHelper:
+    160:170:void setInternalImageTint(android.content.res.ColorStateList)
+android.support.v7.widget.AppCompatPopupWindow:
+    private static final java.lang.String TAG
+    48:50:public AppCompatPopupWindow(android.content.Context,android.util.AttributeSet,int)
+    165:168:public boolean getSupportOverlapAnchor()
+android.support.v7.widget.AppCompatSeekBarHelper:
+    97:97:android.graphics.drawable.Drawable getTickMark()
+    101:105:void setTickMarkTintList(android.content.res.ColorStateList)
+    109:109:android.content.res.ColorStateList getTickMarkTintList()
+    113:117:void setTickMarkTintMode(android.graphics.PorterDuff$Mode)
+    121:121:android.graphics.PorterDuff$Mode getTickMarkTintMode()
+android.support.v7.widget.AppCompatSpinner:
+    private static final int MAX_ITEMS_MEASURED
+    private static final java.lang.String TAG
+    private static final int MODE_DIALOG
+    private static final int MODE_DROPDOWN
+    private static final int MODE_THEME
+android.support.v7.widget.AppCompatTextViewAutoSizeHelper:
+    private static final java.lang.String TAG
+    private static final int DEFAULT_AUTO_SIZE_MIN_TEXT_SIZE_IN_SP
+    private static final int DEFAULT_AUTO_SIZE_MAX_TEXT_SIZE_IN_SP
+    private static final int DEFAULT_AUTO_SIZE_GRANULARITY_IN_PX
+    static final float UNSET_AUTO_SIZE_UNIFORM_CONFIGURATION_VALUE
+    private static final int VERY_WIDE
+android.support.v7.widget.ButtonBarLayout:
+    private static final int ALLOW_STACKING_MIN_HEIGHT_DP
+    private static final int PEEK_BUTTON_DP
+android.support.v7.widget.DrawableUtils:
+    private static final java.lang.String TAG
+    private static final java.lang.String VECTOR_DRAWABLE_CLAZZ_NAME
+android.support.v7.widget.LinearLayoutCompat:
+    private static final int VERTICAL_GRAVITY_COUNT
+    private static final int INDEX_CENTER_VERTICAL
+    private static final int INDEX_TOP
+    private static final int INDEX_BOTTOM
+    private static final int INDEX_FILL
+android.support.v7.widget.ListPopupWindow:
+    private static final java.lang.String TAG
+    private static final boolean DEBUG
+    static final int EXPAND_LIST_TIMEOUT
+    939:940:void setListItemExpandMax(int)
+android.support.v7.widget.MenuPopupWindow:
+    private static final java.lang.String TAG
+android.support.v7.widget.RtlSpacingHelper:
+    public static final int UNDEFINED
+android.support.v7.widget.ScrollingTabContainerView:
+    private static final java.lang.String TAG
+    private static final int FADE_DURATION
+android.support.v7.widget.SearchView:
+    static final boolean DBG
+    static final java.lang.String LOG_TAG
+    private static final java.lang.String IME_OPTION_NO_MICROPHONE
+android.support.v7.widget.SearchView$AutoCompleteTextViewReflector:
+    private java.lang.reflect.Method showSoftInputUnchecked
+android.support.v7.widget.ShareActionProvider:
+    private static final int DEFAULT_INITIAL_ACTIVITY_COUNT
+android.support.v7.widget.SuggestionsAdapter:
+    private static final boolean DBG
+    private static final java.lang.String LOG_TAG
+    private static final int QUERY_LIMIT
+    static final int REFINE_NONE
+    static final int REFINE_BY_ENTRY
+    static final int REFINE_ALL
+    static final int INVALID_INDEX
+    125:125:public int getQueryRefinement()
+    173:175:public void close()
+android.support.v7.widget.SwitchCompat:
+    private static final int THUMB_ANIMATION_DURATION
+    private static final int TOUCH_MODE_IDLE
+    private static final int TOUCH_MODE_DOWN
+    private static final int TOUCH_MODE_DRAGGING
+    private static final java.lang.String ACCESSIBILITY_EVENT_CLASS_NAME
+    private static final int SANS
+    private static final int SERIF
+    private static final int MONOSPACE
+android.support.v7.widget.ThemeUtils:
+    25:25:ThemeUtils()
+    44:58:public static android.content.res.ColorStateList createDisabledStateList(int,int)
+android.support.v7.widget.Toolbar:
+    private static final java.lang.String TAG
+    2103:2103:private static boolean isCustomView(android.view.View)
+android.support.v7.widget.Toolbar$LayoutParams:
+    static final int CUSTOM
+    static final int SYSTEM
+    static final int EXPANDED
+android.support.v7.widget.ToolbarWidgetWrapper:
+    private static final java.lang.String TAG
+    private static final int AFFECTS_LOGO_MASK
+    private static final long DEFAULT_FADE_DURATION_MS
+android.support.v7.widget.TooltipCompatHandler:
+    private static final java.lang.String TAG
+    private static final long LONG_CLICK_HIDE_TIMEOUT_MS
+    private static final long HOVER_HIDE_TIMEOUT_MS
+    private static final long HOVER_HIDE_TIMEOUT_SHORT_MS
+android.support.v7.widget.TooltipPopup:
+    private static final java.lang.String TAG
+android.support.v7.widget.ViewUtils:
+    private static final java.lang.String TAG
+com.badlogic.gdx.InputEventQueue:
+    private static final int KEY_DOWN
+    private static final int KEY_UP
+    private static final int KEY_TYPED
+    private static final int TOUCH_DOWN
+    private static final int TOUCH_UP
+    private static final int TOUCH_DRAGGED
+    private static final int MOUSE_MOVED
+    private static final int SCROLLED
+com.badlogic.gdx.backends.android.APKExpansionSupport:
+    private static final java.lang.String EXP_PATH
+com.badlogic.gdx.backends.android.AndroidGraphics:
+    private static final java.lang.String LOG_TAG
+com.badlogic.gdx.backends.android.AndroidGraphicsLiveWallpaper$1:
+    76:77:public void onDestroy()
+com.badlogic.gdx.backends.android.AndroidGraphicsLiveWallpaper$2:
+    95:96:public void onDestroy()
+com.badlogic.gdx.backends.android.AndroidInput$KeyEvent:
+    static final int KEY_DOWN
+    static final int KEY_UP
+    static final int KEY_TYPED
+com.badlogic.gdx.backends.android.AndroidInput$TouchEvent:
+    static final int TOUCH_DOWN
+    static final int TOUCH_UP
+    static final int TOUCH_DRAGGED
+    static final int TOUCH_SCROLLED
+    static final int TOUCH_MOVED
+com.badlogic.gdx.backends.android.AndroidLiveWallpaperService:
+    static final java.lang.String TAG
+com.badlogic.gdx.backends.android.AndroidMouseHandler:
+    67:79:private void logAction(int)
+com.badlogic.gdx.backends.android.AndroidMultiTouchHandler:
+    107:125:private void logAction(int,int)
+com.badlogic.gdx.backends.android.AndroidOnscreenKeyboard:
+    android.app.Dialog dialog
+    android.widget.TextView textView
+    66:83:android.app.Dialog createDialog()
+    87:118:public static android.widget.TextView createView(android.content.Context)
+    122:167:public void setVisible(boolean)
+com.badlogic.gdx.backends.android.AndroidOnscreenKeyboard$1
+com.badlogic.gdx.backends.android.AndroidOnscreenKeyboard$2
+com.badlogic.gdx.backends.android.AndroidOnscreenKeyboard$2$1
+com.badlogic.gdx.backends.android.AndroidOnscreenKeyboard$2$2
+com.badlogic.gdx.backends.android.ZipResourceFile:
+    static final java.lang.String LOG_TAG
+    static final boolean LOGV
+    static final int kEOCDSignature
+    static final int kEOCDLen
+    static final int kEOCDNumEntries
+    static final int kEOCDSize
+    static final int kEOCDFileOffset
+    static final int kMaxCommentLen
+    static final int kMaxEOCDSearch
+    static final int kLFHSignature
+    static final int kLFHLen
+    static final int kLFHNameLen
+    static final int kLFHExtraLen
+    static final int kCDESignature
+    static final int kCDELen
+    static final int kCDEMethod
+    static final int kCDEModWhen
+    static final int kCDECRC
+    static final int kCDECompLen
+    static final int kCDEUncompLen
+    static final int kCDENameLen
+    static final int kCDEExtraLen
+    static final int kCDECommentLen
+    static final int kCDELocalOffset
+    static final int kCompressStored
+    static final int kCompressDeflated
+    static final int kZipEntryAdj
+    54:54:private static int swapEndian(short)
+com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20:
+    private static final boolean DEBUG
+com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20$ConfigChooser:
+    247:253:private void printConfigs(javax.microedition.khronos.egl.EGL10,javax.microedition.khronos.egl.EGLDisplay,javax.microedition.khronos.egl.EGLConfig[])
+    256:287:private void printConfig(javax.microedition.khronos.egl.EGL10,javax.microedition.khronos.egl.EGLDisplay,javax.microedition.khronos.egl.EGLConfig)
+com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20API18:
+    private static final boolean DEBUG
+com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20API18$ConfigChooser:
+    232:238:private void printConfigs(javax.microedition.khronos.egl.EGL10,javax.microedition.khronos.egl.EGLDisplay,javax.microedition.khronos.egl.EGLConfig[])
+    241:272:private void printConfig(javax.microedition.khronos.egl.EGL10,javax.microedition.khronos.egl.EGLDisplay,javax.microedition.khronos.egl.EGLConfig)
+com.badlogic.gdx.backends.android.surfaceview.GLSurfaceViewAPI18:
+    private static final java.lang.String TAG
+    private static final boolean LOG_ATTACH_DETACH
+    private static final boolean LOG_THREADS
+    private static final boolean LOG_PAUSE_RESUME
+    private static final boolean LOG_SURFACE
+    private static final boolean LOG_RENDERER
+    private static final boolean LOG_RENDERER_DRAW_FRAME
+    private static final boolean LOG_EGL
+com.badlogic.gdx.backends.android.surfaceview.GLSurfaceViewAPI18$GLThreadManager:
+    private static final int kGLES_20
+    private static final java.lang.String kMSM7K_RENDERER_PREFIX
+com.badlogic.gdx.backends.android.surfaceview.GdxEglConfigChooser:
+    private static final int EGL_OPENGL_ES2_BIT
+    private static final java.lang.String TAG
+    157:163:private void printConfigs(javax.microedition.khronos.egl.EGL10,javax.microedition.khronos.egl.EGLDisplay,javax.microedition.khronos.egl.EGLConfig[])
+    166:201:private void printConfig(javax.microedition.khronos.egl.EGL10,javax.microedition.khronos.egl.EGLDisplay,javax.microedition.khronos.egl.EGLConfig)
+com.badlogic.gdx.graphics.Cubemap:
+    203:207:private static void addManagedCubemap(com.badlogic.gdx.Application,com.badlogic.gdx.graphics.Cubemap)
+com.badlogic.gdx.graphics.PixmapIO$CIM:
+    private static final int BUFFER_SIZE
+    75:75:private PixmapIO$CIM()
+com.badlogic.gdx.graphics.PixmapIO$PNG:
+    private static final int IHDR
+    private static final int IDAT
+    private static final int IEND
+    private static final byte COLOR_ARGB
+    private static final byte COMPRESSION_DEFLATE
+    private static final byte FILTER_NONE
+    private static final byte INTERLACE_NONE
+    private static final byte PAETH
+com.badlogic.gdx.graphics.VertexAttributes$ReadonlyIterator:
+    225:226:public void reset()
+com.badlogic.gdx.graphics.g2d.BitmapFont:
+    private static final int LOG2_PAGE_SIZE
+    private static final int PAGE_SIZE
+    private static final int PAGES
+    425:428:static int indexOf(java.lang.CharSequence,char,int)
+com.badlogic.gdx.graphics.g2d.DistanceFieldFont$DistanceFieldFontCache:
+    145:146:public DistanceFieldFont$DistanceFieldFontCache(com.badlogic.gdx.graphics.g2d.DistanceFieldFont)
+com.badlogic.gdx.graphics.g2d.ParticleEmitter:
+    private static final int UPDATE_SCALE
+    private static final int UPDATE_ANGLE
+    private static final int UPDATE_ROTATION
+    private static final int UPDATE_VELOCITY
+    private static final int UPDATE_WIND
+    private static final int UPDATE_GRAVITY
+    private static final int UPDATE_TINT
+    private static final int UPDATE_SPRITE
+com.badlogic.gdx.graphics.g2d.RepeatablePolygonSprite:
+    private float density
+com.badlogic.gdx.graphics.g2d.Sprite:
+    static final int VERTEX_SIZE
+    static final int SPRITE_SIZE
+com.badlogic.gdx.graphics.g3d.decals.CameraGroupStrategy:
+    private static final int GROUP_OPAQUE
+    private static final int GROUP_BLEND
+com.badlogic.gdx.graphics.g3d.decals.Decal:
+    private static final int VERTEX_SIZE
+com.badlogic.gdx.graphics.g3d.decals.DecalBatch:
+    private static final int DEFAULT_SIZE
+com.badlogic.gdx.graphics.g3d.decals.SimpleOrthoGroupStrategy:
+    private static final int GROUP_OPAQUE
+    private static final int GROUP_BLEND
+com.badlogic.gdx.graphics.g3d.environment.AmbientCubemap:
+    private static final int NUM_VALUES
+com.badlogic.gdx.graphics.g3d.environment.SphericalHarmonics:
+    28:28:private static final float clamp(float)
+com.badlogic.gdx.graphics.g3d.particles.ParticleEffectLoader:
+    143:146:private java.lang.Object find(com.badlogic.gdx.utils.Array,java.lang.Class)
+com.badlogic.gdx.graphics.g3d.particles.batches.BillboardParticleBatch:
+    private static final int MAX_PARTICLES_PER_MESH
+    private static final int MAX_VERTICES_PER_MESH
+com.badlogic.gdx.graphics.g3d.utils.shapebuilders.RenderableShapeBuilder:
+    private static final int FLOAT_BYTES
+com.badlogic.gdx.graphics.glutils.KTXTextureData:
+    private static final int GL_TEXTURE_1D
+    private static final int GL_TEXTURE_3D
+    private static final int GL_TEXTURE_1D_ARRAY_EXT
+    private static final int GL_TEXTURE_2D_ARRAY_EXT
+com.badlogic.gdx.input.GestureDetector$VelocityTracker:
+    449:455:private float getSum(float[],int)
+com.badlogic.gdx.input.RemoteInput$KeyEvent:
+    static final int KEY_DOWN
+    static final int KEY_UP
+    static final int KEY_TYPED
+    long timeStamp
+com.badlogic.gdx.input.RemoteInput$TouchEvent:
+    static final int TOUCH_DOWN
+    static final int TOUCH_UP
+    static final int TOUCH_DRAGGED
+    long timeStamp
+com.badlogic.gdx.maps.tiled.renderers.OrthoCachedTiledMapRenderer:
+    private static final float tolerance
+com.badlogic.gdx.math.BSpline:
+    private static final float d6
+com.badlogic.gdx.math.DelaunayTriangulator:
+    private static final float EPSILON
+    private static final int INSIDE
+    private static final int COMPLETE
+    private static final int INCOMPLETE
+com.badlogic.gdx.math.EarClippingTriangulator:
+    private static final int CONCAVE
+    private static final int CONVEX
+com.badlogic.gdx.math.Intersector:
+    875:875:static float det(float,float,float,float)
+    879:879:static double detd(double,double,double,double)
+com.badlogic.gdx.math.MathUtils:
+    private static final int SIN_BITS
+    private static final int SIN_MASK
+    private static final int SIN_COUNT
+    private static final float radFull
+    private static final float degFull
+    private static final float radToIndex
+    private static final float degToIndex
+    private static final int BIG_ENOUGH_INT
+    private static final double BIG_ENOUGH_FLOOR
+    private static final double CEIL
+    private static final double BIG_ENOUGH_CEIL
+    private static final double BIG_ENOUGH_ROUND
+com.badlogic.gdx.math.MathUtils$Sin:
+    51:51:private MathUtils$Sin()
+com.badlogic.gdx.math.RandomXS128:
+    private static final double NORM_DOUBLE
+    private static final double NORM_FLOAT
+com.badlogic.gdx.math.collision.Sphere:
+    private static final float PI_4_3
+com.badlogic.gdx.scenes.scene2d.ui.TextField:
+    private static final char BACKSPACE
+    private static final char TAB
+    private static final char DELETE
+    private static final char BULLET
+com.badlogic.gdx.utils.Base64Coder:
+    private static final java.lang.String systemLineSeparator
+com.badlogic.gdx.utils.ComparableTimSort:
+    private static final int MIN_MERGE
+    private static final int MIN_GALLOP
+    private static final int INITIAL_TMP_STORAGE_LENGTH
+    private static final boolean DEBUG
+    44:147:private ComparableTimSort(java.lang.Object[])
+    155:156:static void sort(java.lang.Object[])
+    159:198:static void sort(java.lang.Object[],int,int)
+com.badlogic.gdx.utils.I18NBundle:
+    private static final java.lang.String DEFAULT_ENCODING
+com.badlogic.gdx.utils.IdentityMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+com.badlogic.gdx.utils.IntFloatMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+    private static final int EMPTY
+com.badlogic.gdx.utils.IntFloatMap$MapIterator:
+    static final int INDEX_ILLEGAL
+    static final int INDEX_ZERO
+com.badlogic.gdx.utils.IntIntMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+    private static final int EMPTY
+com.badlogic.gdx.utils.IntIntMap$MapIterator:
+    static final int INDEX_ILLEGAL
+    static final int INDEX_ZERO
+com.badlogic.gdx.utils.IntMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+    private static final int EMPTY
+com.badlogic.gdx.utils.IntMap$MapIterator:
+    static final int INDEX_ILLEGAL
+    static final int INDEX_ZERO
+com.badlogic.gdx.utils.IntSet:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+    private static final int EMPTY
+com.badlogic.gdx.utils.IntSet$IntSetIterator:
+    static final int INDEX_ILLEGAL
+    static final int INDEX_ZERO
+com.badlogic.gdx.utils.Json:
+    private static final boolean debug
+com.badlogic.gdx.utils.JsonReader:
+    static final int json_start
+    static final int json_first_final
+    static final int json_error
+    static final int json_en_object
+    static final int json_en_array
+    static final int json_en_main
+com.badlogic.gdx.utils.LongMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+    private static final int EMPTY
+com.badlogic.gdx.utils.LongMap$MapIterator:
+    static final int INDEX_ILLEGAL
+    static final int INDEX_ZERO
+com.badlogic.gdx.utils.ObjectFloatMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+com.badlogic.gdx.utils.ObjectIntMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+com.badlogic.gdx.utils.ObjectMap:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+com.badlogic.gdx.utils.ObjectSet:
+    private static final int PRIME1
+    private static final int PRIME2
+    private static final int PRIME3
+com.badlogic.gdx.utils.PerformanceCounter:
+    private static final float nano2seconds
+com.badlogic.gdx.utils.PerformanceCounters:
+    private static final float nano2seconds
+com.badlogic.gdx.utils.PropertiesUtils:
+    private static final int NONE
+    private static final int SLASH
+    private static final int UNICODE
+    private static final int CONTINUE
+    private static final int KEY_DONE
+    private static final int IGNORE
+    private static final java.lang.String LINE_SEPARATOR
+com.badlogic.gdx.utils.StringBuilder:
+    static final int INITIAL_CAPACITY
+    55:55:final char[] getValue()
+com.badlogic.gdx.utils.TimSort:
+    private static final int MIN_MERGE
+    private static final int MIN_GALLOP
+    private static final int INITIAL_TMP_STORAGE_LENGTH
+    private static final boolean DEBUG
+    64:171:private TimSort(java.lang.Object[],java.util.Comparator)
+    179:180:static void sort(java.lang.Object[],java.util.Comparator)
+    183:227:static void sort(java.lang.Object[],int,int,java.util.Comparator)
+com.badlogic.gdx.utils.TimeUtils:
+    private static final long nanosPerMilli
+com.badlogic.gdx.utils.Timer:
+    private static final int CANCELLED
+    private static final int FOREVER
+com.badlogic.gdx.utils.XmlReader:
+    static final int xml_start
+    static final int xml_first_final
+    static final int xml_error
+    static final int xml_en_elementBody
+    static final int xml_en_main
+com.badlogic.gdx.utils.compression.Lzma$CommandLine:
+    public static final int kEncode
+    public static final int kDecode
+    public static final int kBenchmak
+    public java.lang.String InFile
+    public java.lang.String OutFile
+com.badlogic.gdx.utils.compression.lz.BinTree:
+    static final int kHash2Size
+    static final int kHash3Size
+    static final int kBT2HashSize
+    static final int kStartMaxLen
+    static final int kHash3Offset
+    static final int kEmptyHashValue
+    static final int kMaxValForNormalize
+com.badlogic.gdx.utils.compression.lzma.Encoder:
+    static final int kIfinityPrice
+    static final int kDefaultDictionaryLogSize
+    static final int kNumFastBytesDefault
+    static final int kNumOpts
+    368:369:void SetWriteEndMarkerMode(boolean)
+    917:918:boolean ChangePair(int,int)
+com.badlogic.gdx.utils.compression.rangecoder.Decoder:
+    static final int kTopMask
+    static final int kNumBitModelTotalBits
+    static final int kBitModelTotal
+    static final int kNumMoveBits
+com.badlogic.gdx.utils.compression.rangecoder.Encoder:
+    static final int kTopMask
+    static final int kNumBitModelTotalBits
+    static final int kBitModelTotal
+    static final int kNumMoveBits
+    static final int kNumMoveReducingBits
+com.google.android.gms.common.ProGuardCanary
+com.google.android.gms.games.internal.GamesClientImpl$CaptureStreamingUrlResultImpl
+com.google.android.gms.games.internal.api.VideosImpl$CaptureStreamingUrlImpl$1
+com.google.android.gms.games.internal.api.zzed
+com.google.android.gms.internal.zzfjg:
+    private final java.nio.ByteBuffer buffer
+com.google.example.games.basegameutils.BaseGameActivity:
+    private static final java.lang.String TAG
+com.google.example.games.basegameutils.GameHelper:
+    static final java.lang.String TAG
+    static final int RC_RESOLVE
+    static final int RC_UNUSED
+    static final int DEFAULT_MAX_SIGN_IN_ATTEMPTS
+com.google.example.games.basegameutils.GameHelperUtils:
+    public static final int R_UNKNOWN_ERROR
+    public static final int R_SIGN_IN_FAILED
+    public static final int R_APP_MISCONFIGURED
+    public static final int R_LICENSE_FAILED
+    19:19:GameHelperUtils()
